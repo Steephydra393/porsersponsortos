@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(pexels-max-deroin-51415.jpg);
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Dosis', sans-serif;
+}
+h1 {
+    font-size: 9em; /* 40px/16=2.5em */
+  }
+  
+  h2 {
+    font-size: 3em; /* 30px/16=1.875em */
+  }
+
+  h4 {
+    font-size: 1em;
+  }
+
+  h3 {
+    font-size: 2em;
+  }
+  
+  p {
+    font-size: 1.6em; /* 14px/16=0.875em */
+  }
